@@ -23,13 +23,13 @@ Full game design document with diagrams: https://docs.google.com/document/d/131d
   15. Add single satellite with reset, gliding and boundary behaviors
   16. Add collision effect between spaceship and satellite, sound effect
 
-* I didn't want to risk any copyright problems so I also had to create most of my sprites and the background image. Since I am not an artist I created some another set of **milestones that focused on visuals:**
-1. Create game background image
-2. Create ship image
-3. Find fuel image
-4. Create asteroid image
-5. Create speed boost image
-6. Create satellite image
+* I didn't want to risk any copyright problems so I also had to create most of my sprites and the background image. Since I am not an artist I created another set of **milestones that focused on visuals:**
+  1. Create game background image
+  2. Create ship image
+  3. Find fuel image
+  4. Create asteroid image
+  5. Create speed boost image
+  6. Create satellite image
 
 * These were simple milestones but each image took about 45 minutes each, exluding the space ship.
 * I am very happy with how each image turned out.
